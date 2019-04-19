@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StarrySky</string>
+
+    <array name="simple_list_name">
+        <item>权限获取</item>
+        <item>BackgroundLibrary</item>
+    </array>
+</resources>

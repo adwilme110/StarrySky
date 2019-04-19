@@ -1,4 +1,4 @@
-StarrySky/.gradle/
-StarrySky/app/build/
-StarrySky/space/build/
-StarrySky/.idea/
+/.gradle
+/app/build/
+/space/build/
+/.idea/
