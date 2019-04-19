@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:2:11-37
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:3:5-64
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:3:22-62
+application
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:4:5-16:19
+	android:supportsRtl
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:5:9-35
+activity#com.itbomb.space.permission.PermissionCheckActivity
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:8:9-10:80
+	android:screenOrientation
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:9:19-55
+	android:theme
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:10:19-78
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:8:19-69
+activity#com.itbomb.space.permission.PermissionSettingActivity
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:12:9-14:80
+	android:screenOrientation
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:13:19-55
+	android:theme
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:14:19-78
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml:12:19-71
+uses-sdk
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\src\main\AndroidManifest.xml

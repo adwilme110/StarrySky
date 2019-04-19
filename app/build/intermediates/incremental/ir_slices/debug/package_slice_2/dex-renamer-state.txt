@@ -1,0 +1,4 @@
+#Thu Apr 18 16:30:43 CST 2019
+base.0=C\:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

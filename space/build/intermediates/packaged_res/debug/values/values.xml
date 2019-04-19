@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="background">
+        <attr format="enum" name="bl_shape">
+            <enum name="rectangle" value="0"/>
+            <enum name="oval" value="1"/>
+            <enum name="line" value="2"/>
+            <enum name="ring" value="3"/>
+        </attr>
+
+        <attr format="color" name="bl_solid_color"/>
+
+        <attr format="dimension" name="bl_corners_radius"/>
+        <attr format="dimension" name="bl_corners_bottomLeftRadius"/>
+        <attr format="dimension" name="bl_corners_bottomRightRadius"/>
+        <attr format="dimension" name="bl_corners_topLeftRadius"/>
+        <attr format="dimension" name="bl_corners_topRightRadius"/>
+
+        <attr format="integer" name="bl_gradient_angle"/>
+        <attr format="float" name="bl_gradient_centerX"/>
+        <attr format="float" name="bl_gradient_centerY"/>
+        <attr format="color" name="bl_gradient_centerColor"/>
+        <attr format="color" name="bl_gradient_endColor"/>
+        <attr format="color" name="bl_gradient_startColor"/>
+        <attr format="dimension" name="bl_gradient_gradientRadius"/>
+        <attr format="enum" name="bl_gradient_type">
+            <enum name="linear" value="0"/>
+            <enum name="radial" value="1"/>
+            <enum name="sweep" value="2"/>
+        </attr>
+        <attr format="boolean" name="bl_gradient_useLevel"/>
+
+        <attr format="dimension" name="bl_padding_left"/>
+        <attr format="dimension" name="bl_padding_top"/>
+        <attr format="dimension" name="bl_padding_right"/>
+        <attr format="dimension" name="bl_padding_bottom"/>
+
+        <attr format="dimension" name="bl_size_width">
+            <enum name="wrap_content" value="-2"/>
+            <enum name="match_parent" value="-1"/>
+        </attr>
+        <attr format="dimension" name="bl_size_height">
+            <enum name="wrap_content" value="-2"/>
+            <enum name="match_parent" value="-1"/>
+        </attr>
+
+        <attr format="dimension" name="bl_stroke_width"/>
+        <attr format="color" name="bl_stroke_color"/>
+        <attr format="dimension" name="bl_stroke_dashWidth"/>
+        <attr format="dimension" name="bl_stroke_dashGap"/>
+
+        <!--以下是selector事件-->
+        <attr format="boolean" name="bl_ripple_enable"/>
+        <attr format="color" name="bl_ripple_color"/>
+
+
+        <attr format="color" name="bl_checkable_stroke_color"/>
+        <attr format="color" name="bl_checked_stroke_color"/>
+        <attr format="color" name="bl_enabled_stroke_color"/>
+        <attr format="color" name="bl_selected_stroke_color"/>
+        <attr format="color" name="bl_pressed_stroke_color"/>
+        <attr format="color" name="bl_focused_stroke_color"/>
+
+        <attr format="color" name="bl_unCheckable_stroke_color"/>
+        <attr format="color" name="bl_unChecked_stroke_color"/>
+        <attr format="color" name="bl_unEnabled_stroke_color"/>
+        <attr format="color" name="bl_unSelected_stroke_color"/>
+        <attr format="color" name="bl_unPressed_stroke_color"/>
+        <attr format="color" name="bl_unFocused_stroke_color"/>
+    </declare-styleable>
+    <declare-styleable name="background_press">
+        <attr format="color" name="bl_unpressed_color"/>
+        <attr format="color" name="bl_pressed_color"/>
+    </declare-styleable>
+    <declare-styleable name="background_selector">
+
+        <attr format="color|reference" name="bl_checkable_drawable"/>
+        <attr format="color|reference" name="bl_checked_drawable"/>
+        <attr format="color|reference" name="bl_enabled_drawable"/>
+        <attr format="color|reference" name="bl_selected_drawable"/>
+        <attr format="color|reference" name="bl_pressed_drawable"/>
+        <attr format="color|reference" name="bl_focused_drawable"/>
+        <attr format="color|reference" name="bl_focused_hovered"/>
+        <attr format="color|reference" name="bl_focused_activated"/>
+
+        <attr format="color|reference" name="bl_unCheckable_drawable"/>
+        <attr format="color|reference" name="bl_unChecked_drawable"/>
+        <attr format="color|reference" name="bl_unEnabled_drawable"/>
+        <attr format="color|reference" name="bl_unSelected_drawable"/>
+        <attr format="color|reference" name="bl_unPressed_drawable"/>
+        <attr format="color|reference" name="bl_unFocused_drawable"/>
+        <attr format="color|reference" name="bl_unFocused_hovered"/>
+        <attr format="color|reference" name="bl_unFocused_activated"/>
+    </declare-styleable>
+    <declare-styleable name="text_selector">
+        <attr format="color" name="bl_checkable_textColor"/>
+        <attr format="color" name="bl_checked_textColor"/>
+        <attr format="color" name="bl_enabled_textColor"/>
+        <attr format="color" name="bl_selected_textColor"/>
+        <attr format="color" name="bl_pressed_textColor"/>
+        <attr format="color" name="bl_focused_textColor"/>
+
+        <attr format="color" name="bl_unCheckable_textColor"/>
+        <attr format="color" name="bl_unChecked_textColor"/>
+        <attr format="color" name="bl_unEnabled_textColor"/>
+        <attr format="color" name="bl_unSelected_textColor"/>
+        <attr format="color" name="bl_unPressed_textColor"/>
+        <attr format="color" name="bl_unFocused_textColor"/>
+    </declare-styleable>
+    <string name="app_name">Space</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_commit">提交</string>
+    <string name="common_compete">完成</string>
+    <string name="common_define">确定</string>
+    <string name="common_failed">失败</string>
+    <string name="common_save">保存</string>
+    <string name="common_success">成功</string>
+    <string name="permission_audio">录音</string>
+    <string name="permission_calendar">日历</string>
+    <string name="permission_camera">相机</string>
+    <string name="permission_contacts">通讯录</string>
+    <string name="permission_dialog_btn_negative">取消</string>
+    <string name="permission_dialog_btn_positive">去设置</string>
+    <string name="permission_dialog_info">请在设置-应用-%1$s-权限中开启%2$s权限，从而正常使用%1$s功能</string>
+    <string name="permission_dialog_title">权限申请:</string>
+    <string name="permission_floating">悬浮窗</string>
+    <string name="permission_location">位置</string>
+    <string name="permission_phone">电话</string>
+    <string name="permission_sensors">传感器</string>
+    <string name="permission_sms">短信</string>
+    <string name="permission_storage">存储空间</string>
+    <style name="Custom_Theme_Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <!-- 设置无遮罩层 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Custom_Translucent_Theme_Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+</resources>

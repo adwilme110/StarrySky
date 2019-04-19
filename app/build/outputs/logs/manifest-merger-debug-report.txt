@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b605c7d510b1974b83f7bd3601956797\AndroidManifest.xml:2:1-11:12
+MERGED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7859ba8f261317cbabc8bc2c00bd48d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\bc543f486b6b4acd109bf56b9b352728\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ecc2d820df826c2ad33eec4294e1317e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.alibaba:arouter-api:1.4.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\arouter-api-1.4.1.aar\6da9e1ce8c6aad6c6544aba0208c5a16\AndroidManifest.xml:2:1-10:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\50880fa6d75f67b142e247955a9e087c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e427561dd79452f31fea01cd7b0eda54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6834177cca2859ec26b9837b94817772\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\89c49d10db3f640fd70a1f587c14c3ba\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3dad5d4a60c82cbf37ee5bb5ce800b87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ee68be3205fcfd2ea9b81dd60f5d1e5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\85e27ad9b7260fe2f7022b49b1fdd2f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dfc335b62016f150307a870fac4c4f8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1d0d760f3714d936fa443f19780f2fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0c5e4cdaafe29fecf53a3cd85eda2f45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e5711189da4c9e0876eb4be95cbcc3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cace6429e079382f004e5ed71d7f2257\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6a956fbae72e165a38cdb9eeb3ed344d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5eb23b6ff79589bef5157778afcd0db1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e7042bbdfa2a1c3d6463cf6d073f0f36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\742a43614ffd412833ff53fda2911922\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\274dcea079549df9135f4cd390b772eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\568ed655f048fe4bb869af75167426ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edc176a5e2231a34f1ab7a449c1ffdb0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5092f15280d9067951af7cff48ab06f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e94b95177df52cd9ffcc86e89a490f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\23d3af86e169183741966f05ecccba36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2f058504a30e33981cebac2201b619c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7026d264c95953adf8b72916525c61e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59fe632cafa916918883d5f9a3e3597b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d627e97ea47813e668e194376bae8e9f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b605c7d510b1974b83f7bd3601956797\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b605c7d510b1974b83f7bd3601956797\AndroidManifest.xml:9:5-20
+MERGED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-24:19
+MERGED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-24:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\89c49d10db3f640fd70a1f587c14c3ba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\89c49d10db3f640fd70a1f587c14c3ba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\742a43614ffd412833ff53fda2911922\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\742a43614ffd412833ff53fda2911922\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:6:9-42
+activity#com.itbomb.common.starrysky.SimpleActivity
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:13:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.itbomb.common.starrysky.ShapeActivity
+ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b605c7d510b1974b83f7bd3601956797\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b605c7d510b1974b83f7bd3601956797\AndroidManifest.xml:5:5-7:41
+MERGED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7859ba8f261317cbabc8bc2c00bd48d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7859ba8f261317cbabc8bc2c00bd48d3\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\bc543f486b6b4acd109bf56b9b352728\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-9.0.0-rc1.aar\bc543f486b6b4acd109bf56b9b352728\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ecc2d820df826c2ad33eec4294e1317e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ecc2d820df826c2ad33eec4294e1317e\AndroidManifest.xml:20:5-44
+MERGED from [com.alibaba:arouter-api:1.4.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\arouter-api-1.4.1.aar\6da9e1ce8c6aad6c6544aba0208c5a16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.alibaba:arouter-api:1.4.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\arouter-api-1.4.1.aar\6da9e1ce8c6aad6c6544aba0208c5a16\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\50880fa6d75f67b142e247955a9e087c\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\butterknife-runtime-9.0.0-rc1.aar\50880fa6d75f67b142e247955a9e087c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e427561dd79452f31fea01cd7b0eda54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e427561dd79452f31fea01cd7b0eda54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6834177cca2859ec26b9837b94817772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6834177cca2859ec26b9837b94817772\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\89c49d10db3f640fd70a1f587c14c3ba\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\89c49d10db3f640fd70a1f587c14c3ba\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3dad5d4a60c82cbf37ee5bb5ce800b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3dad5d4a60c82cbf37ee5bb5ce800b87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ee68be3205fcfd2ea9b81dd60f5d1e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ee68be3205fcfd2ea9b81dd60f5d1e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\85e27ad9b7260fe2f7022b49b1fdd2f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\85e27ad9b7260fe2f7022b49b1fdd2f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dfc335b62016f150307a870fac4c4f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dfc335b62016f150307a870fac4c4f8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1d0d760f3714d936fa443f19780f2fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1d0d760f3714d936fa443f19780f2fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0c5e4cdaafe29fecf53a3cd85eda2f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0c5e4cdaafe29fecf53a3cd85eda2f45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e5711189da4c9e0876eb4be95cbcc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e5711189da4c9e0876eb4be95cbcc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cace6429e079382f004e5ed71d7f2257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\cace6429e079382f004e5ed71d7f2257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6a956fbae72e165a38cdb9eeb3ed344d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\6a956fbae72e165a38cdb9eeb3ed344d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5eb23b6ff79589bef5157778afcd0db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5eb23b6ff79589bef5157778afcd0db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e7042bbdfa2a1c3d6463cf6d073f0f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e7042bbdfa2a1c3d6463cf6d073f0f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f0c634f0e7d192c9b509c4f5e71aca04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\742a43614ffd412833ff53fda2911922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\742a43614ffd412833ff53fda2911922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\274dcea079549df9135f4cd390b772eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\274dcea079549df9135f4cd390b772eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\568ed655f048fe4bb869af75167426ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\568ed655f048fe4bb869af75167426ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edc176a5e2231a34f1ab7a449c1ffdb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\edc176a5e2231a34f1ab7a449c1ffdb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5092f15280d9067951af7cff48ab06f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5092f15280d9067951af7cff48ab06f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e94b95177df52cd9ffcc86e89a490f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8e94b95177df52cd9ffcc86e89a490f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\23d3af86e169183741966f05ecccba36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\23d3af86e169183741966f05ecccba36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2f058504a30e33981cebac2201b619c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2f058504a30e33981cebac2201b619c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7026d264c95953adf8b72916525c61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e7026d264c95953adf8b72916525c61e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59fe632cafa916918883d5f9a3e3597b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\59fe632cafa916918883d5f9a3e3597b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d627e97ea47813e668e194376bae8e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d627e97ea47813e668e194376bae8e9f\AndroidManifest.xml:20:5-44
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\itbom\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\25db30e832152dc0c1e01a152c042147\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		ADDED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:22-62
+activity#com.itbomb.space.permission.PermissionCheckActivity
+ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:9-19:75
+	android:screenOrientation
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:13-49
+	android:theme
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-79
+activity#com.itbomb.space.permission.PermissionSettingActivity
+ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:9-23:75
+	android:screenOrientation
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from [:space] C:\AndroidDev\AndroidStudioProjects\Common\StarrySky\space\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:13-81

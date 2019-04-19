@@ -1,0 +1,4 @@
+.gradle/
+app/build/
+space/build/
+.idea/

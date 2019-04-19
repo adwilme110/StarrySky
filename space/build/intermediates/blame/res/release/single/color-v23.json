@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\AndroidDev\\AndroidStudioProjects\\Common\\StarrySky\\space\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\itbom\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ecc2d820df826c2ad33eec4294e1317e\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]
